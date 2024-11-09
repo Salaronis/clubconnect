@@ -73,7 +73,7 @@ function App() {
           id="user-menu-button"
           onClick={toggleDropdown} // Toggle dropdown on click
         >
-          <img src="/public/cat prof.jpg" alt="Profile Image" className="w-10 h-10 rounded-full" />
+          <img src="/cat prof.jpg" alt="Profile Image" className="w-10 h-10 rounded-full" />
         </button>
 
         {/* Dropdown menu */}
